@@ -4,7 +4,7 @@
 
 This code was written for the conduction of my BSc thesis in AUEB.
 
-The output if this program was used in the following publication: https://dl.acm.org/doi/abs/10.1145/3461615.3485418
+The output of this program was used in the following publication: https://dl.acm.org/doi/abs/10.1145/3461615.3485418
 
 To run the code is required to have setup a python environment. I recommend downloading Anaconda (https://www.datacamp.com/community/tutorials/installing-anaconda-windows).
 
